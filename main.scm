@@ -1,4 +1,4 @@
-;; first raytracer test
+;; stupid raytracer
 
 (include "srfi/srfi1.scm")
 
