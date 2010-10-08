@@ -1,0 +1,13 @@
+Very simple raytracer.
+
+Mostly started as a way to have fun & see how far I can go w/ a this and to work on two things I like (scheme & graphic rendering) in the same project.
+
+Right now it is very slow, very ugly and mostly hacky.
+
+It supports:
+ - sphere / plane rendering,
+ - multiple lights,
+ - diffuse color & reflected rays,
+ - shadows,
+
+
